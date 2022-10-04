@@ -40,7 +40,7 @@
   },
   "peerDependencies": {
     "adminjs": ">=6.0.0",
-    "firebase": "^8.x",
+    "firebase": "^8.2.4",
     "firebase-admin": "^9.x",
     "firebase-functions": "^3.x"
   },
